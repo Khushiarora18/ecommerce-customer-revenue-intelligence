@@ -16,6 +16,21 @@ This project transforms transactional e-commerce data into actionable business i
 * Segment customers using RFM analysis.
 * Identify high-value and at-risk customer groups.
 
+## Dashboard Preview
+
+The project includes a four-page Power BI dashboard covering customer intelligence, revenue and product performance, customer acquisition, and customer retention.
+
+### Power BI Dashboard
+
+📊 **[View / Download the Complete Power BI Dashboard PDF](./powerbi/Project_02_ECommerce_Customer_Revenue_Intelligence.pdf)**
+
+The dashboard includes:
+
+- **Customer Intelligence** — customer value, portfolio, and revenue trends
+- **Revenue & Product Intelligence** — category, product, revenue, and profitability analysis
+- **Customer Acquisition** — acquisition channels and customer value
+- **Customer Retention & RFM Intelligence** — customer segmentation, recency, and retention analysis
+
 ## Dataset
 
 The synthetic dataset contains five interconnected tables:
