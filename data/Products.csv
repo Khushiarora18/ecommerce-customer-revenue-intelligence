@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Cost,Selling_Price
+P0001,Comfort Footwear Series,Fashion,Footwear,3235.01,4878.5
+P0002,Modern Home Decor Kit,Home & Kitchen,Home Decor,307.23,445.43
+P0003,Premium Home Decor Set,Home & Kitchen,Home Decor,2292.17,3201.3
+P0004,Practical Non-Fiction Collection,Books,Non-Fiction,629.99,856.4
+P0005,Essential Non-Fiction Essentials,Books,Non-Fiction,1288.89,1646.0
+P0006,Pro Mobile Accessories Collection,Electronics,Mobile Accessories,1926.45,2316.35
+P0007,Wireless Mobile Accessories Set,Electronics,Mobile Accessories,3960.06,5367.9
+P0008,Active Sportswear Collection,Sports,Sportswear,435.01,609.75
+P0009,Everyday Apparel Kit,Fashion,Apparel,1525.31,2503.55
+P0010,The Complete Non-Fiction Essentials,Books,Non-Fiction,359.78,524.34
+P0011,Everyday Footwear Set,Fashion,Footwear,2629.36,4932.89
+P0012,Luxe Skincare Series,Beauty,Skincare,1435.17,2348.66
+P0013,Classic Kitchen Kit,Home & Kitchen,Kitchen,4579.06,6131.27
+P0014,Comfort Apparel Set,Fashion,Apparel,1607.81,2556.49
+P0015,Active Sportswear Essentials,Sports,Sportswear,5008.45,6657.0
+P0016,Ultra Audio Essentials,Electronics,Audio,1105.98,1302.37
+P0017,Pro Smart Devices Essentials,Electronics,Smart Devices,4558.46,5668.34
+P0018,Portable Mobile Accessories Essentials,Electronics,Mobile Accessories,3970.26,5400.06
+P0019,Pure Makeup Collection,Beauty,Makeup,229.25,482.48
+P0020,Wireless Smart Devices Collection,Electronics,Smart Devices,4781.91,6127.9
+P0021,Ultra Audio Set,Electronics,Audio,2832.53,3637.92
+P0022,The Complete Fiction Series,Books,Fiction,440.06,592.96
+P0023,Portable Audio Collection,Electronics,Audio,2919.86,3796.95
+P0024,Pro Outdoor Essentials,Sports,Outdoor,3862.0,6305.78
+P0025,Urban Apparel Collection,Fashion,Apparel,1583.35,3221.8
+P0026,Pro Audio Series,Electronics,Audio,5097.13,6617.65
+P0027,Power Outdoor Set,Sports,Outdoor,714.57,957.24
+P0028,Essential Appliances Series,Home & Kitchen,Appliances,2523.08,3778.99
+P0029,Active Fitness Kit,Sports,Fitness,3824.0,5034.22
+P0030,Pro Audio Series,Electronics,Audio,10045.13,11880.84
+P0031,Everyday Apparel Collection,Fashion,Apparel,464.42,838.85
+P0032,Portable Smart Devices Set,Electronics,Smart Devices,1182.93,1390.94
+P0033,Active Fitness Series,Sports,Fitness,1431.02,2095.99
+P0034,Portable Smart Devices Collection,Electronics,Smart Devices,8080.62,9897.55
+P0035,Practical Non-Fiction Collection,Books,Non-Fiction,542.17,874.03
+P0036,Ultra Audio Set,Electronics,Audio,6943.49,9115.83
+P0037,Wireless Audio Kit,Electronics,Audio,1460.6,1679.88
+P0038,Portable Mobile Accessories Set,Electronics,Mobile Accessories,4400.89,5156.86
+P0039,Glow Makeup Collection,Beauty,Makeup,641.87,932.73
+P0040,Glow Skincare Series,Beauty,Skincare,1457.1,2580.69
+P0041,Portable Smart Devices Kit,Electronics,Smart Devices,11792.88,14363.18
+P0042,Active Sportswear Collection,Sports,Sportswear,2955.29,4966.12
+P0043,Ultra Audio Set,Electronics,Audio,6377.83,7959.88
+P0044,Pro Mobile Accessories Collection,Electronics,Mobile Accessories,782.39,947.03
+P0045,Premium Accessories Set,Fashion,Accessories,836.54,1442.37
+P0046,Urban Apparel Collection,Fashion,Apparel,887.72,1283.5
+P0047,Care Haircare Series,Beauty,Haircare,2125.79,4115.54
+P0048,Everyday Accessories Set,Fashion,Accessories,388.5,586.95
+P0049,Everyday Footwear Set,Fashion,Footwear,351.62,585.79
+P0050,Everyday Footwear Kit,Fashion,Footwear,432.44,895.95
+P0051,Compact Home Decor Collection,Home & Kitchen,Home Decor,4524.64,6141.98
+P0052,Pro Outdoor Collection,Sports,Outdoor,987.9,1626.48
+P0053,Care Skincare Set,Beauty,Skincare,224.52,487.34
+P0054,Modern Home Decor Collection,Home & Kitchen,Home Decor,1205.36,1549.22
+P0055,Glow Haircare Essentials,Beauty,Haircare,2197.95,3992.43
+P0056,Wireless Smart Devices Set,Electronics,Smart Devices,1513.81,1919.76
+P0057,Essential Kitchen Series,Home & Kitchen,Kitchen,5538.26,6998.52
+P0058,Everyday Apparel Kit,Fashion,Apparel,791.22,1450.96
+P0059,Wireless Audio Series,Electronics,Audio,4420.9,5317.6
+P0060,Premium Kitchen Essentials,Home & Kitchen,Kitchen,1671.91,2522.32
+P0061,Pro Audio Essentials,Electronics,Audio,1366.47,1739.46
+P0062,Modern Non-Fiction Kit,Books,Non-Fiction,636.01,998.54
+P0063,Smart Audio Kit,Electronics,Audio,2089.21,2652.38
+P0064,Compact Appliances Essentials,Home & Kitchen,Appliances,783.11,1117.58
+P0065,Glow Skincare Kit,Beauty,Skincare,1952.44,3583.43
+P0066,Compact Appliances Collection,Home & Kitchen,Appliances,784.49,1003.56
+P0067,Classic Apparel Collection,Fashion,Apparel,3983.87,5879.96
+P0068,Pro Audio Series,Electronics,Audio,955.13,1213.03
+P0069,Premium Apparel Collection,Fashion,Apparel,1874.24,2682.02
+P0070,The Complete Educational Essentials,Books,Educational,364.81,567.71
+P0071,Pro Audio Series,Electronics,Audio,4634.92,6061.39
+P0072,Wireless Smart Devices Series,Electronics,Smart Devices,3704.55,4727.84
+P0073,Everyday Accessories Set,Fashion,Accessories,1764.94,3001.63
+P0074,Wireless Mobile Accessories Collection,Electronics,Mobile Accessories,4051.39,5019.87
+P0075,Comfort Footwear Series,Fashion,Footwear,398.05,576.9
+P0076,Essential Kitchen Series,Home & Kitchen,Kitchen,905.76,1334.08
+P0077,Practical Fiction Series,Books,Fiction,1003.21,1611.55
+P0078,Modern Non-Fiction Series,Books,Non-Fiction,360.57,459.02
+P0079,Urban Accessories Series,Fashion,Accessories,454.59,881.31
+P0080,Ultra Mobile Accessories Set,Electronics,Mobile Accessories,2617.32,3277.31
+P0081,Urban Footwear Kit,Fashion,Footwear,424.41,771.07
+P0082,Daily Skincare Series,Beauty,Skincare,1221.46,2051.2
+P0083,Portable Smart Devices Kit,Electronics,Smart Devices,4279.27,5726.55
+P0084,Modern Appliances Kit,Home & Kitchen,Appliances,533.51,760.37
+P0085,Classic Home Decor Essentials,Home & Kitchen,Home Decor,2555.76,3344.71
+P0086,Classic Footwear Kit,Fashion,Footwear,3225.51,4840.88
+P0087,Smart Mobile Accessories Kit,Electronics,Mobile Accessories,3305.24,4105.7
+P0088,Compact Kitchen Collection,Home & Kitchen,Kitchen,1360.58,1825.55
+P0089,Ultra Smart Devices Collection,Electronics,Smart Devices,744.23,983.32
+P0090,Compact Appliances Series,Home & Kitchen,Appliances,590.55,817.02
+P0091,Active Outdoor Series,Sports,Outdoor,4362.12,5900.86
+P0092,Smart Mobile Accessories Essentials,Electronics,Mobile Accessories,3345.73,3936.55
+P0093,Power Sportswear Essentials,Sports,Sportswear,536.28,839.59
+P0094,Active Outdoor Essentials,Sports,Outdoor,1632.17,2670.94
+P0095,Power Sportswear Collection,Sports,Sportswear,4006.16,6470.59
+P0096,The Complete Educational Series,Books,Educational,348.91,483.02
+P0097,Premium Apparel Kit,Fashion,Apparel,698.94,1241.44
+P0098,Premium Kitchen Kit,Home & Kitchen,Kitchen,978.71,1205.74
+P0099,Guide to Educational Series,Books,Educational,1155.38,1693.96
+P0100,Luxe Makeup Series,Beauty,Makeup,382.83,673.56
+P0101,Flex Sportswear Essentials,Sports,Sportswear,1184.9,1824.72
+P0102,Power Sportswear Series,Sports,Sportswear,505.86,707.42
+P0103,Wireless Mobile Accessories Collection,Electronics,Mobile Accessories,4655.66,5486.1
+P0104,Power Fitness Kit,Sports,Fitness,1391.89,1873.49
+P0105,Modern Home Decor Series,Home & Kitchen,Home Decor,1469.0,1923.92
+P0106,Wireless Mobile Accessories Collection,Electronics,Mobile Accessories,14640.49,17018.3
+P0107,The Complete Fiction Collection,Books,Fiction,543.7,728.99
+P0108,Portable Smart Devices Kit,Electronics,Smart Devices,2246.8,2713.3
+P0109,Urban Apparel Series,Fashion,Apparel,632.07,891.87
+P0110,Care Makeup Set,Beauty,Makeup,1190.0,1814.67
+P0111,Wireless Smart Devices Kit,Electronics,Smart Devices,1663.74,2304.08
+P0112,Classic Home Decor Essentials,Home & Kitchen,Home Decor,1586.64,2274.01
+P0113,Care Haircare Series,Beauty,Haircare,285.85,498.26
+P0114,Ultra Mobile Accessories Set,Electronics,Mobile Accessories,2323.77,2761.95
+P0115,Essential Home Decor Essentials,Home & Kitchen,Home Decor,4915.13,6578.8
+P0116,Classic Accessories Kit,Fashion,Accessories,632.52,1215.26
+P0117,Premium Home Decor Set,Home & Kitchen,Home Decor,3933.62,5854.93
+P0118,Guide to Fiction Series,Books,Fiction,521.74,654.9
+P0119,The Complete Educational Collection,Books,Educational,542.02,836.26
+P0120,Essential Kitchen Kit,Home & Kitchen,Kitchen,1868.66,2558.83
+P0121,Ultra Mobile Accessories Essentials,Electronics,Mobile Accessories,14429.95,16461.76
+P0122,Power Outdoor Series,Sports,Outdoor,3877.88,6179.65
+P0123,Premium Kitchen Collection,Home & Kitchen,Kitchen,1308.27,1968.73
+P0124,Everyday Accessories Kit,Fashion,Accessories,1881.18,3255.27
+P0125,Classic Accessories Collection,Fashion,Accessories,641.97,968.31
+P0126,Comfort Footwear Essentials,Fashion,Footwear,365.79,605.72
+P0127,Essential Kitchen Set,Home & Kitchen,Kitchen,331.72,481.17
+P0128,Everyday Footwear Series,Fashion,Footwear,1147.1,1726.82
+P0129,Urban Apparel Series,Fashion,Apparel,1858.88,2834.28
+P0130,Compact Kitchen Essentials,Home & Kitchen,Kitchen,495.04,681.36
+P0131,Portable Audio Series,Electronics,Audio,842.32,1005.51
+P0132,Premium Accessories Set,Fashion,Accessories,1642.34,3242.72
+P0133,Premium Home Decor Kit,Home & Kitchen,Home Decor,1837.31,2417.97
+P0134,Everyday Accessories Series,Fashion,Accessories,870.79,1500.49
+P0135,Ultra Smart Devices Essentials,Electronics,Smart Devices,6694.05,8447.82
+P0136,Premium Home Decor Collection,Home & Kitchen,Home Decor,424.44,640.93
+P0137,Modern Fiction Series,Books,Fiction,490.65,783.05
+P0138,Everyday Accessories Essentials,Fashion,Accessories,604.86,920.6
+P0139,Portable Mobile Accessories Collection,Electronics,Mobile Accessories,944.76,1102.34
+P0140,Classic Apparel Kit,Fashion,Apparel,791.27,1443.42
+P0141,Everyday Accessories Kit,Fashion,Accessories,1265.72,2133.73
+P0142,Classic Kitchen Collection,Home & Kitchen,Kitchen,550.26,804.12
+P0143,Luxe Skincare Series,Beauty,Skincare,368.79,629.93
+P0144,Compact Kitchen Kit,Home & Kitchen,Kitchen,5389.66,7429.84
+P0145,Urban Apparel Set,Fashion,Apparel,978.25,1970.43
+P0146,Portable Audio Collection,Electronics,Audio,2703.92,3370.96
+P0147,Comfort Apparel Series,Fashion,Apparel,390.67,603.49
+P0148,Smart Smart Devices Kit,Electronics,Smart Devices,8054.21,9646.41
+P0149,Ultra Mobile Accessories Essentials,Electronics,Mobile Accessories,1659.69,2181.96
+P0150,Classic Kitchen Kit,Home & Kitchen,Kitchen,4303.86,5390.17
